@@ -1,7 +1,7 @@
 \#Programacion Orientada a Objetos
 \##PAC1 2026 UNAH COPAN
 
-mensaje de otro planeta
+correcion de errores
 
 
 
