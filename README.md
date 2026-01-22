@@ -1,9 +1,3 @@
 \#Programacion Orientada a Objetos
 \##PAC1 2026 UNAH COPAN
 
-correcion de errores
-
-Correcion de errores
-
-
-
