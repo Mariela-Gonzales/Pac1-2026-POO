@@ -36,3 +36,7 @@ Permite desarrollar aplicaciones de escritorio, moviles, web, IA, juegos
 
 
 
+<<<<<<< HEAD
+=======
+
+>>>>>>> d6ec370e06825ab86289578b6e087bbe55a6e411
